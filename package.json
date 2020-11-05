@@ -1,0 +1,8 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "make blockchain with TypeScript",
+  "main": "index.js",
+  "author": "Jayden JaeMin Jeong",
+  "license": "MIT"
+}
